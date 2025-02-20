@@ -8,4 +8,6 @@ https://github.com/Mounikabethi12/GenerativeAI-2303A52196/blob/main/2303A52196_l
 
 https://github.com/Mounikabethi12/GenerativeAI-2303A52196/blob/main/lab_05_2196_generative_AI.ipynb
 
+https://github.com/Mounikabethi12/GenerativeAI-2303A52196/blob/main/2303A52196_6_LAB_6_1.ipynb
+
 
